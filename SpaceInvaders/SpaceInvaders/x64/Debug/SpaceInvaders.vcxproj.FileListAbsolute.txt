@@ -1,0 +1,3 @@
+C:\Users\Николай\source\repos\SpaceInvaders\x64\Debug\raylib.dll
+C:\Users\Николай\source\repos\SpaceInvaders\x64\Debug\glfw3.dll
+C:\Users\Николай\source\repos\SpaceInvaders\SpaceInvaders\x64\Debug\SpaceInv.53607584.Up2Date

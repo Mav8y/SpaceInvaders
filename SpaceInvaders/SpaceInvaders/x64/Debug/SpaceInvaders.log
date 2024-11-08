@@ -1,0 +1,8 @@
+﻿  Header.cpp
+C:\Users\Николай\source\repos\SpaceInvaders\Header.cpp(6,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Николай\source\repos\SpaceInvaders\Header.cpp(7,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Николай\source\repos\SpaceInvaders\Header.cpp(36,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Николай\source\repos\SpaceInvaders\Header.cpp(59,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SpaceInvaders.vcxproj -> C:\Users\Николай\source\repos\SpaceInvaders\x64\Debug\SpaceInvaders.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
